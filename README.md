@@ -34,7 +34,7 @@ Este repositório contém **todo o código-fonte do projeto**, criado com Unity 
 
 ## 🌐 Jogue Online
 
-➡️ *[link do itch.io]*
+➡️ *[link do itch.io](https://fernandomattos16.itch.io/my-8-way)*
 
 ---
 
